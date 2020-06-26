@@ -469,7 +469,7 @@
                                         <rect key="frame" x="20" y="375" width="374" height="73"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
-                                        <mutableString key="text">Four years of relentless conflict in Yemen have devastated the lives of millions of people. Facing a protection and humanitarian crisis engulfing a large part of its population, Yemen has become the largest humanitarian crisis in the world. An alarming 24.1 million people – more than two thirds of the population - need some kind of humanitarian or protection support. Like the rest of the world, Yemen also has to face the COVID-19 global pandemic. It is estimated 1 person from every family will perish due to the outbreak. Currently, more than 20 million people are food insecure while a staggering 7.4 million people do not know where their next meal is coming from and are at risk of famine.</mutableString>
+                                        <string key="text">Four years of relentless conflict in Yemen have devastated the lives of millions of people. Facing a protection and humanitarian crisis engulfing a large part of its population, Yemen has become the largest humanitarian crisis in the world. An alarming 24.1 million people – more than two thirds of the population - need some kind of humanitarian or protection support. Like the rest of the world, Yemen also has to face the COVID-19 global pandemic. It is estimated 1 person from every family will perish due to the outbreak. Currently, more than 20 million people are food insecure while a staggering 7.4 million people do not know where their next meal is coming from and are at risk of famine.</string>
                                         <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="12"/>
                                         <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -850,6 +850,30 @@
                                         <rect key="frame" x="285" y="403" width="110" height="91"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="blmact2" translatesAutoresizingMaskIntoConstraints="NO" id="jeg-he-vYN">
+                                        <rect key="frame" x="20" y="545" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="7472AFE0-D5F2-465C-BB6D-DC895833CA92" translatesAutoresizingMaskIntoConstraints="NO" id="F7K-hC-0Pg">
+                                        <rect key="frame" x="20" y="694" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="FDD1B870-C067-4EAA-82FB-88F11E1A302B" translatesAutoresizingMaskIntoConstraints="NO" id="sX2-Yh-dZk">
+                                        <rect key="frame" x="151" y="694" width="103" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="blmact3" translatesAutoresizingMaskIntoConstraints="NO" id="Uhs-fN-5dF">
+                                        <rect key="frame" x="152" y="545" width="101" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="defund" translatesAutoresizingMaskIntoConstraints="NO" id="3Af-kg-een">
+                                        <rect key="frame" x="284" y="545" width="101" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_7678" translatesAutoresizingMaskIntoConstraints="NO" id="siW-ye-KEH">
+                                        <rect key="frame" x="284" y="694" width="101" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                 <viewLayoutGuide key="safeArea" id="zP3-iM-yfx"/>
@@ -880,13 +904,6 @@
                                         <rect key="frame" x="311" y="96" width="122" height="61"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="HeatlthCare Resources" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EsF-7r-1uj">
-                                        <rect key="frame" x="-5" y="144" width="433" height="55"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="37"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="______________________________" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="n0U-gF-snG">
                                         <rect key="frame" x="-60" y="357" width="586" height="54"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -950,6 +967,61 @@
                                         <color key="textColor" red="0.04613070935" green="0.52455556390000002" blue="0.77257812020000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <nil key="highlightedColor"/>
                                     </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Health Care Resources" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EsF-7r-1uj">
+                                        <rect key="frame" x="-9" y="152" width="433" height="55"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="13" translatesAutoresizingMaskIntoConstraints="NO" id="nxI-Q7-3K2">
+                                        <rect key="frame" x="8" y="279" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="14" translatesAutoresizingMaskIntoConstraints="NO" id="pdS-o7-as4">
+                                        <rect key="frame" x="161" y="279" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="15" translatesAutoresizingMaskIntoConstraints="NO" id="h5N-YS-S0E">
+                                        <rect key="frame" x="300" y="279" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="16" translatesAutoresizingMaskIntoConstraints="NO" id="yet-e6-ga6">
+                                        <rect key="frame" x="8" y="419" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="17" translatesAutoresizingMaskIntoConstraints="NO" id="5EN-et-CrB">
+                                        <rect key="frame" x="161" y="419" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1" translatesAutoresizingMaskIntoConstraints="NO" id="o2z-Xf-gAz">
+                                        <rect key="frame" x="300" y="419" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="health a1" translatesAutoresizingMaskIntoConstraints="NO" id="Wut-og-tXa">
+                                        <rect key="frame" x="8" y="566" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="health a2" translatesAutoresizingMaskIntoConstraints="NO" id="DOX-M6-KZE">
+                                        <rect key="frame" x="161" y="566" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="health a3" translatesAutoresizingMaskIntoConstraints="NO" id="VBy-Dc-kz1">
+                                        <rect key="frame" x="300" y="566" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="health3" translatesAutoresizingMaskIntoConstraints="NO" id="e5t-ni-fHx">
+                                        <rect key="frame" x="8" y="706" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="health2" translatesAutoresizingMaskIntoConstraints="NO" id="Uhx-XB-S5I">
+                                        <rect key="frame" x="161" y="710" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="health3" translatesAutoresizingMaskIntoConstraints="NO" id="hDx-T9-TAU">
+                                        <rect key="frame" x="300" y="710" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                 <viewLayoutGuide key="safeArea" id="Ux5-I2-cNt"/>
@@ -1050,6 +1122,54 @@
                                         <color key="textColor" red="0.04613070935" green="0.52455556390000002" blue="0.77257812020000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <nil key="highlightedColor"/>
                                     </label>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1" translatesAutoresizingMaskIntoConstraints="NO" id="twJ-Rd-FlJ">
+                                        <rect key="frame" x="8" y="278" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2" translatesAutoresizingMaskIntoConstraints="NO" id="ZyF-As-PPC">
+                                        <rect key="frame" x="161" y="278" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="3" translatesAutoresizingMaskIntoConstraints="NO" id="AXH-ol-ujh">
+                                        <rect key="frame" x="307" y="278" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="4-1" translatesAutoresizingMaskIntoConstraints="NO" id="Vgj-XK-hLU">
+                                        <rect key="frame" x="8" y="411" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="5" translatesAutoresizingMaskIntoConstraints="NO" id="lkW-Kj-T0k">
+                                        <rect key="frame" x="161" y="411" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="6" translatesAutoresizingMaskIntoConstraints="NO" id="yWD-Om-Hdg">
+                                        <rect key="frame" x="307" y="418" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="7" translatesAutoresizingMaskIntoConstraints="NO" id="Zhp-aY-av0">
+                                        <rect key="frame" x="8" y="559" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="10" translatesAutoresizingMaskIntoConstraints="NO" id="1vg-gm-AtB">
+                                        <rect key="frame" x="8" y="702" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="11" translatesAutoresizingMaskIntoConstraints="NO" id="dCC-hP-oJw">
+                                        <rect key="frame" x="158" y="702" width="99" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="8" translatesAutoresizingMaskIntoConstraints="NO" id="Zdb-aV-ru5">
+                                        <rect key="frame" x="158" y="554" width="99" height="113"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="9" translatesAutoresizingMaskIntoConstraints="NO" id="ibB-YE-jV5">
+                                        <rect key="frame" x="307" y="559" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="12" translatesAutoresizingMaskIntoConstraints="NO" id="Equ-cb-OKC">
+                                        <rect key="frame" x="307" y="702" width="92" height="103"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                 <viewLayoutGuide key="safeArea" id="qKh-Me-ac7"/>
@@ -1150,6 +1270,54 @@
                                         <color key="textColor" red="0.04613070935" green="0.52455556390000002" blue="0.77257812020000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <nil key="highlightedColor"/>
                                     </label>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="lgbttool1" translatesAutoresizingMaskIntoConstraints="NO" id="iUS-BB-UZ7">
+                                        <rect key="frame" x="8" y="271" width="110" height="91"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="lgbttool2" translatesAutoresizingMaskIntoConstraints="NO" id="MiF-EW-hix">
+                                        <rect key="frame" x="147" y="271" width="110" height="91"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="lgbttool3" translatesAutoresizingMaskIntoConstraints="NO" id="OYT-dy-Ipn">
+                                        <rect key="frame" x="296" y="271" width="110" height="91"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="4F7F1926-F913-479B-B9FC-2969D9324B5E" translatesAutoresizingMaskIntoConstraints="NO" id="nwz-ie-qDG">
+                                        <rect key="frame" x="8" y="403" width="110" height="91"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="7B9324B8-06ED-4D83-8A89-FBD533B92B50" translatesAutoresizingMaskIntoConstraints="NO" id="WVe-ef-1gf">
+                                        <rect key="frame" x="147" y="403" width="110" height="91"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="iniative" translatesAutoresizingMaskIntoConstraints="NO" id="KdY-yQ-x1w">
+                                        <rect key="frame" x="147" y="698" width="110" height="91"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="AC4B6CF0-B0F7-4951-A786-E0CDBC5BDFB8" translatesAutoresizingMaskIntoConstraints="NO" id="zsH-dQ-PAC">
+                                        <rect key="frame" x="296" y="402" width="110" height="91"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1lgbt" translatesAutoresizingMaskIntoConstraints="NO" id="Wrb-cV-7UW">
+                                        <rect key="frame" x="0.0" y="549" width="110" height="91"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="trevor" translatesAutoresizingMaskIntoConstraints="NO" id="m5S-6h-c9R">
+                                        <rect key="frame" x="0.0" y="698" width="110" height="91"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1lgbt2" translatesAutoresizingMaskIntoConstraints="NO" id="cpj-A1-7rZ">
+                                        <rect key="frame" x="147" y="549" width="110" height="105"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="lgbttool3" translatesAutoresizingMaskIntoConstraints="NO" id="PUW-27-xdF">
+                                        <rect key="frame" x="296" y="549" width="110" height="91"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="desperate" translatesAutoresizingMaskIntoConstraints="NO" id="Oiv-Jc-KGB">
+                                        <rect key="frame" x="296" y="698" width="110" height="91"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                 <viewLayoutGuide key="safeArea" id="Pp6-cW-VDv"/>
@@ -1162,7 +1330,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wbf-yn-bas" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-594" y="3408"/>
+            <point key="canvasLocation" x="-594.20289855072474" y="3407.8125"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="wc0-2O-ksf">
@@ -1171,6 +1339,88 @@
                     <view key="view" contentMode="scaleToFill" id="ump-79-Ptq">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="darklogo" translatesAutoresizingMaskIntoConstraints="NO" id="ndH-ZI-mmc">
+                                <rect key="frame" x="316" y="88" width="122" height="61"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="#BLM Petitions" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WwW-Ii-Fit">
+                                <rect key="frame" x="20" y="157" width="374" height="55"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="39"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1pet" translatesAutoresizingMaskIntoConstraints="NO" id="dQx-H1-QZU">
+                                <rect key="frame" x="20" y="258" width="133" height="129"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2 pet" translatesAutoresizingMaskIntoConstraints="NO" id="T9U-Zs-Ap6">
+                                <rect key="frame" x="20" y="428" width="133" height="129"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="3pet" translatesAutoresizingMaskIntoConstraints="NO" id="Hz0-1G-Lqr">
+                                <rect key="frame" x="20" y="616" width="133" height="129"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="______________________________" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IF6-W8-J38">
+                                <rect key="frame" x="-86" y="176" width="586" height="54"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="45"/>
+                                <color key="textColor" red="0.019732195880000001" green="0.025401664899999999" blue="0.25884050130000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Justice For Floyd" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JLB-VR-fCh">
+                                <rect key="frame" x="161" y="258" width="233" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Police Brutality" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="v0M-3l-mBt">
+                                <rect key="frame" x="161" y="428" width="233" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Justice For Breonna" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lnF-XY-qHQ">
+                                <rect key="frame" x="161" y="616" width="233" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="VnW-Hq-8qX">
+                                <rect key="frame" x="161" y="292" width="240" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <string key="text">George Floyd was a peace activist and respected community leader. He was far from his home in Houston when he was murdered in broad daylight by Minneapolis police.</string>
+                                <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hV0-nc-zyW">
+                                <rect key="frame" x="161" y="661" width="240" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <string key="text">Breonna Taylor was an award-winning EMT and model citizen. She loved her family and community, working at two hospitals as an essential worker during the pandemic.
+
+Nearly four months ago, a division of the Louisville Police Department performed an illegal, unannounced drug raid on her home. Not a single officer announced themselves before ramming down her door and firing 22 shots, shooting Breonna 8 times, killing her. </string>
+                                <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="9t5-cp-vI0">
+                                <rect key="frame" x="161" y="462" width="240" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <string key="text">Since the start of the Black Lives Matter movement has been caused by the relentless judical system and the corrupt police systems in many states and countries. George Floyd, Breonna Tayler, and many more are victims of this horrendous.</string>
+                                <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="Lgx-cP-LaM"/>
                     </view>
@@ -1178,7 +1428,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4t1-bg-m2L" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="209" y="3417"/>
+            <point key="canvasLocation" x="208.69565217391306" y="3416.5178571428569"/>
         </scene>
         <!--Categories-->
         <scene sceneID="Eyz-lh-tkW">
@@ -1307,6 +1557,90 @@
                     <view key="view" contentMode="scaleToFill" id="44w-3E-u7m">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="darklogo" translatesAutoresizingMaskIntoConstraints="NO" id="gfJ-kh-bgI">
+                                <rect key="frame" x="296" y="88" width="122" height="61"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="LGBTQ+ Petitions" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="biP-jC-gOk">
+                                <rect key="frame" x="0.0" y="157" width="374" height="55"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="39"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="use1" translatesAutoresizingMaskIntoConstraints="NO" id="1hb-zc-5Jd">
+                                <rect key="frame" x="20" y="264" width="133" height="129"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image=" use2" translatesAutoresizingMaskIntoConstraints="NO" id="n6Y-RQ-MH1">
+                                <rect key="frame" x="20" y="434" width="133" height="129"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="use3" translatesAutoresizingMaskIntoConstraints="NO" id="FOZ-nt-YNb">
+                                <rect key="frame" x="20" y="622" width="133" height="129"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="______________________________" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vq1-TR-OBs">
+                                <rect key="frame" x="-86" y="182" width="586" height="54"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="45"/>
+                                <color key="textColor" red="0.019732195880000001" green="0.025401664899999999" blue="0.25884050130000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Equality Act" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rnL-ka-LKC">
+                                <rect key="frame" x="161" y="264" width="233" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Stop Anti-LGBTQ+ " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="u4b-8z-kuI">
+                                <rect key="frame" x="161" y="434" width="233" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Justice For Dominque Fells" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WpF-Ev-W65">
+                                <rect key="frame" x="161" y="622" width="233" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="fDe-PJ-Row">
+                                <rect key="frame" x="161" y="298" width="240" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <string key="text">By adding your name, you’ll join with thousands of others to push Congress to pass the Equality Act into law, which would provide consistent and explicit nondiscrimination protections for LGBTQ people across key areas of life, including employment, housing, credit, education, public spaces and services, federally funded programs, and jury service.</string>
+                                <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="2Bm-o9-18s">
+                                <rect key="frame" x="161" y="667" width="240" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <mutableString key="text">“On Tuesday, a dismembered body was pulled from the river. Trauma to the face and head, legs severed mid-thigh.” Authorities spent the next couple days trying to positively ID the victim.” 
+
+June 9th, another black trans woman named Dominique ‘Rem’mie’ Fells was murdered and thrown in a river. The violence against black trans women needs to stop. We cannot allow for the murder of this young woman to go unpunished. Violence against trans women and ESPECIALLY black trans women is at an all time high. It is literally a pandemic. Dominique did not deserve to lose her life. She did not deserve to spend her last moments in terror. She deserved to live her whole life in HAPPINESS AND SAFETY. Her family did not deserve to lose her so suddenly and so horrible. Please help get this young woman and her family the justice she deserves. Find her murderer, deny them bond, and charge the POS with 1ST DEGREE MURDER. Lock them away for life. Dominique deserved to live.</mutableString>
+                                <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="pAR-4z-TjK">
+                                <rect key="frame" x="161" y="468" width="240" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <mutableString key="text">As people of faith and religious leaders, we urge you to reject anti-LGBTQ and, specifically, anti-transgender legislation and to commit to creating loving, just communities that embody justice for people of all gender identities and sexual orientations.
+
+"The voices of people of faith and religious leaders are needed to respond to any attempt to target transgender people and to restrict justice, dignity, and equality for all LGBTQ people. We must stand up and speak out against these attacks on transgender people and on LGBTQ justice, dignity, and equality. We must call for a world that embodies justice for people of all gender identities and sexual orientations.</mutableString>
+                                <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="bvh-aQ-2IJ"/>
                     </view>
@@ -1323,6 +1657,98 @@
                     <view key="view" contentMode="scaleToFill" id="p6R-5V-FqX">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="darklogo" translatesAutoresizingMaskIntoConstraints="NO" id="Z2J-au-Rcg">
+                                <rect key="frame" x="316" y="88" width="122" height="61"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Yemen Petitions" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="M34-3x-teI">
+                                <rect key="frame" x="20" y="157" width="374" height="55"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="39"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="use4" translatesAutoresizingMaskIntoConstraints="NO" id="A95-E3-At1">
+                                <rect key="frame" x="20" y="281" width="133" height="129"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="use5" translatesAutoresizingMaskIntoConstraints="NO" id="zyA-Ru-Fkx">
+                                <rect key="frame" x="20" y="451" width="133" height="129"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="yemen a2" translatesAutoresizingMaskIntoConstraints="NO" id="cc2-Wx-9uk">
+                                <rect key="frame" x="20" y="639" width="133" height="129"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="______________________________" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Pd-yi-Lle">
+                                <rect key="frame" x="-86" y="199" width="586" height="54"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="45"/>
+                                <color key="textColor" red="0.019732195880000001" green="0.025401664899999999" blue="0.25884050130000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Yemen Famine" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uM8-T9-5gH">
+                                <rect key="frame" x="161" y="281" width="233" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Stop Fueling War" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GLw-0p-mcF">
+                                <rect key="frame" x="161" y="451" width="233" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Stop Weapons " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5Vw-iy-h6v">
+                                <rect key="frame" x="161" y="639" width="233" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="KnG-Th-qzc">
+                                <rect key="frame" x="161" y="315" width="240" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <mutableString key="text">If we don’t do anything, the Yemeni people, my people, could soon be victims of the world’s worst famine in one hundred years. Help us avoid this. Sign this petition and help us ask everyone to put down their weapons and let humanitarian help be delivered.
+
+We are joining together as Yemenis who want peace and an end to the famine. Without a truce and real security, there is no way to lessen the famine. Having trucks full of food isn’t enough. Without safe passage and free access for humanitarian workers, we have no hope of ending the daily wastage of so many tiny, innocent bodies.</mutableString>
+                                <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="FKp-E9-yPa">
+                                <rect key="frame" x="161" y="684" width="240" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <mutableString key="text">It's time to call for an end to weapons transfers used to fuel the crisis in Yemen. Executions and torture; the crackdown on activists, journalists and academics; the murder of a dissident journalist in a consulate abroad; the escalating humanitarian crisis in Yemen. These are just some of the abuses that the Saudi authorities are trying to distract us from with expensive public relations campaigns.
+
+Despite this, the conflict in Yemen has proven difficult to ignore - the world has been shocked by images of civilians killed and maimed; Yemenis who are starving; of schools, hospitals, markets destroyed by bombs with  ‘made in the USA’ and ‘made in the UK’ inscribed.
+
+We need to stop the flow of arms that are fueling these human rights violations in Yemen.
+
+Countries - including Germany, the Netherlands and Norway - have started to restrict weapons sales to the Saudi and UAE-led coalition. But other countries, including the USA, UK, Spain, and Canada, are still supplying weapons.
+
+We can put pressure on countries to stop the transfers, reduce violations and civilian suffering, and drive home the message to the coalition that continued violations will not be tolerated.</mutableString>
+                                <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="Lf3-tB-gHB">
+                                <rect key="frame" x="161" y="485" width="240" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <string key="text">The Saudi-led war on Yemen has caused immense death and destruction. Yemen is facing the world's worst humanitarian crisis, with millions of Yemeni people on the brink of famine as a result of deliberate Saudi policy, and the worst cholera outbreak in recorded history.
+
+By dealing weapons to the Saudis, the Australian government is facilitating illegal war crimes and human rights abuses in Yemen. Australia's weapons exports undermine its responsibilities as a member of the Arms Trade Treaty.</string>
+                                <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="uQD-b6-XXC"/>
                     </view>
@@ -1339,6 +1765,97 @@
                     <view key="view" contentMode="scaleToFill" id="TTD-K7-yeT">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="darklogo" translatesAutoresizingMaskIntoConstraints="NO" id="lGp-rL-eqh">
+                                <rect key="frame" x="316" y="88" width="122" height="61"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Health Petitions" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hyW-NP-Xbc">
+                                <rect key="frame" x="20" y="157" width="374" height="55"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="39"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="health1" translatesAutoresizingMaskIntoConstraints="NO" id="Fvt-fk-8Z2">
+                                <rect key="frame" x="20" y="280" width="133" height="129"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="health2" translatesAutoresizingMaskIntoConstraints="NO" id="f3R-Jx-UDz">
+                                <rect key="frame" x="20" y="450" width="133" height="129"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="health3" translatesAutoresizingMaskIntoConstraints="NO" id="aOY-FF-JrJ">
+                                <rect key="frame" x="20" y="638" width="133" height="129"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="______________________________" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dXB-qJ-Ekm">
+                                <rect key="frame" x="-86" y="198" width="586" height="54"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="45"/>
+                                <color key="textColor" red="0.019732195880000001" green="0.025401664899999999" blue="0.25884050130000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Universal Health Care" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5vt-Ss-KRl">
+                                <rect key="frame" x="161" y="280" width="233" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Equal Health Care" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fLc-I0-dHb">
+                                <rect key="frame" x="161" y="450" width="233" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="No Discrimination In Health" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lY8-ya-mP0">
+                                <rect key="frame" x="161" y="638" width="233" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="sGe-pf-ebZ">
+                                <rect key="frame" x="161" y="314" width="240" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <mutableString key="text">Health care is a human right. It is the essence of our survival. It's time that the American government take care of its citizens, instead of health insurance special interest group. Everyone who is an elected official has a generous healthcare plan. But your constituents are bankrupting themselves in order to pay for the astronomical CEO salaries of supposed "health care providers."
+
+Congress and Senate: make a pledge, right now, to vote for healthcare for your constituents that is equal to what you are getting yourself, paid by us, the voters.
+
+It's our votes that have gotten this for you. It's time that you vote for our health as well.</mutableString>
+                                <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hIz-Ud-YDN">
+                                <rect key="frame" x="161" y="683" width="240" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <mutableString key="text">The Trump Administration will stop at nothing to roll back progress towards equality – especially when it comes to the rights of transgender people and those seeking reproductive care.
+
+The Department of Health and Human Services has proposed a rule that aims to dramatically weaken the Health Care Rights Law, a key component of the Affordable Care Act that prohibits discrimination based on sex, race, ethnicity, age, or disability. With this rule, transgender and nonbinary people, all women, and other communities historically marginalized in health care would lose protections from discrimination.
+
+This is an act of violence. Period. The administration wants to make it easier to deny critical treatment and care to vulnerable populations, and make it harder to hold institutions accountable for discrimination.</mutableString>
+                                <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="F5d-Lt-BXU">
+                                <rect key="frame" x="161" y="484" width="240" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <string key="text">Our elected officials pass rules and regulations for the citizens including healthcare, but the healthcare policies don't apply to them. The lifetime healthcare policy for elected officials should be abolished and they should have the same healthcare as everyone else.
+
+Why is this important?
+Officials elected on the federal level receive lifetime healthcare. Better healthcare than the average citizen receives.</string>
+                                <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="W2g-J2-lr1"/>
                     </view>
@@ -1350,6 +1867,33 @@
         </scene>
     </scenes>
     <resources>
+        <image name=" use2" width="1080" height="1080"/>
+        <image name="1" width="512" height="512"/>
+        <image name="10" width="512" height="512"/>
+        <image name="11" width="512" height="512"/>
+        <image name="12" width="512" height="512"/>
+        <image name="13" width="512" height="512"/>
+        <image name="14" width="512" height="512"/>
+        <image name="15" width="512" height="512"/>
+        <image name="16" width="512" height="512"/>
+        <image name="17" width="512" height="512"/>
+        <image name="1lgbt" width="2000" height="2000"/>
+        <image name="1lgbt2" width="938" height="800"/>
+        <image name="1pet" width="112" height="112"/>
+        <image name="2" width="512" height="512"/>
+        <image name="2 pet" width="112" height="112"/>
+        <image name="3" width="512" height="512"/>
+        <image name="3pet" width="112" height="112"/>
+        <image name="4-1" width="512" height="512"/>
+        <image name="4F7F1926-F913-479B-B9FC-2969D9324B5E" width="1080" height="1080"/>
+        <image name="5" width="512" height="512"/>
+        <image name="6" width="512" height="512"/>
+        <image name="7" width="512" height="512"/>
+        <image name="7472AFE0-D5F2-465C-BB6D-DC895833CA92" width="1080" height="1080"/>
+        <image name="7B9324B8-06ED-4D83-8A89-FBD533B92B50" width="1080" height="1080"/>
+        <image name="8" width="512" height="512"/>
+        <image name="9" width="512" height="512"/>
+        <image name="AC4B6CF0-B0F7-4951-A786-E0CDBC5BDFB8" width="1080" height="1080"/>
         <image name="BLM D 1" width="1080" height="1080"/>
         <image name="BLM D 2" width="1080" height="1080"/>
         <image name="BLM D 3" width="1080" height="1080"/>
@@ -1357,20 +1901,33 @@
         <image name="BLM RL 3 " width="1080" height="1080"/>
         <image name="BLM RL1" width="1080" height="1080"/>
         <image name="BLM button 2" width="1080" height="1080"/>
+        <image name="FDD1B870-C067-4EAA-82FB-88F11E1A302B" width="1080" height="1080"/>
+        <image name="IMG_7678" width="828" height="817"/>
         <image name="LGBTQ" width="1080" height="1080"/>
         <image name="Yemen a1" width="480" height="480"/>
         <image name="blm collage" width="872" height="180"/>
         <image name="blma3" width="112" height="112"/>
+        <image name="blmact2" width="1080" height="1080"/>
+        <image name="blmact3" width="1080" height="1080"/>
         <image name="blmarticle1-1" width="112" height="112"/>
         <image name="blmarticle2" width="112" height="112"/>
         <image name="book" catalog="system" width="128" height="101"/>
         <image name="darklogo" width="1080" height="1080"/>
+        <image name="defund" width="1080" height="1080"/>
+        <image name="desperate" width="195" height="225"/>
         <image name="health a1" width="480" height="480"/>
         <image name="health a2" width="480" height="480"/>
         <image name="health a3" width="480" height="480"/>
         <image name="health care" width="1080" height="1080"/>
         <image name="health care collage " width="990" height="180"/>
+        <image name="health1" width="450" height="300"/>
+        <image name="health2" width="920" height="613"/>
+        <image name="health3" width="4096" height="2731"/>
         <image name="house" catalog="system" width="128" height="110"/>
+        <image name="iniative" width="243" height="308"/>
+        <image name="lgbttool1" width="1080" height="1080"/>
+        <image name="lgbttool2" width="1080" height="1080"/>
+        <image name="lgbttool3" width="1080" height="1080"/>
         <image name="logo" width="1080" height="1080"/>
         <image name="paperclip" catalog="system" width="128" height="128"/>
         <image name="pride a1" width="480" height="480"/>
@@ -1378,6 +1935,11 @@
         <image name="pride a3" width="480" height="480"/>
         <image name="pride collage" width="1021" height="180"/>
         <image name="square.and.pencil" catalog="system" width="128" height="118"/>
+        <image name="trevor" width="900" height="900"/>
+        <image name="use1" width="1080" height="1080"/>
+        <image name="use3" width="480" height="480"/>
+        <image name="use4" width="480" height="480"/>
+        <image name="use5" width="480" height="480"/>
         <image name="yemen " width="1080" height="1080"/>
         <image name="yemen 2" width="1080" height="1080"/>
         <image name="yemen a2" width="480" height="480"/>
